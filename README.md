@@ -1,12 +1,12 @@
 
-# Dentalist - Dental Clinic React Website
+# Max Dental Clinic- Dental Clinic React Website
 
 **Dentalist** is a Modern Responsive Website for Dental Clinic. It is built
 with ReactJS, Bootstrap, and Sass. Dental clinic can use
 this template to bring their business online or increase business visibility.
 
 ## Live View
-[Dentalist](https://dentalist.netlify.app/)
+[Dentalist]https://dental-website-taupe-six.vercel.app/contact
 
 ## Tech Stack
 React, Bootstrap, SASS, React Router, React Slick, React Icons and AOS

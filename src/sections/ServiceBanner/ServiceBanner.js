@@ -41,7 +41,7 @@ import React from 'react';
 import Service from '../../components/Service/Service';
 import { Link } from 'react-router-dom';
 import { BsFillArrowRightCircleFill } from "react-icons/bs";
-import SectionTitle from '../../components/SectionTitle/SectionTitle';
+// import SectionTitle from '../../components/SectionTitle/SectionTitle';
 import ServicesData from '../Services/ServiceData';
 import './ServiceBanner.scss'
 

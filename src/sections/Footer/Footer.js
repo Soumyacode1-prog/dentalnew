@@ -1,16 +1,16 @@
 import React from 'react';
 import logo from '../../assets/logo1.jpg';
 import './Footer.scss';
-import { FaFacebookF, FaInstagram, FaTwitter,FaYoutube } from "react-icons/fa";
+import { FaFacebookF, FaInstagram,FaYoutube } from "react-icons/fa";
 import { Link } from 'react-router-dom';
 import call from '../../assets/footer/calling.png';
 import time from '../../assets/footer/time.png';
 import location from '../../assets/footer/location.png';
-import About from '../../pages/About';
-import Services from '../Services/Services';
-import Blogs from '../Blogs/Blogs';
-import Terms from '../../components/Terms';
-import Privacy from '../../components/Privacy';
+// import About from '../../pages/About';
+// import Services from '../Services/Services';
+// import Blogs from '../Blogs/Blogs';
+// import Terms from '../../components/Terms';
+// import Privacy from '../../components/Privacy';
 
 
 

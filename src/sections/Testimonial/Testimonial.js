@@ -20,13 +20,13 @@ const Testimonial = () => {
         {
             'img': imgTwo,
             'name': 'Akash Dhanuka',
-            'description' : 'One stop solution for all your dental & oral problems. Dr. Mayank Sir is not only a great Doctor but he is also a great human being. He treat his patient with utmost care & diligence. The City of Purnea is very fortunate to have a Medical Practitioner like Dr. Mayank Kumar Sir.',
+            'description' : 'One stop solution for all your dental & oral problems. Dr. Mayank Sir is not only a great Doctor but he is also a great human being. He treat his patient with utmost care & diligence. ',
             'ratings':[<AiFillStar/>,<AiFillStar/>,<AiFillStar/>,<AiFillStar/>,<AiFillStar/>]
         },
         {
             'img': imgThree,
             'name': 'Rishant Kumar Raman',
-            'description' : 'I recently visited MAX DENTAL CLINIC for a dental appointment regarding my third molar teeth problem, and I must say, the experience was excellent from start to finish.I was deeply impressed by the humble nature of Dr. MAYANK KUMAR SINGH.',
+            'description' : 'I recently visited MAX DENTAL CLINIC for a dental appointment regarding my third molar teeth problem, and I must say, the experience was excellent from start to finish.',
             'ratings':[<AiFillStar/>,<AiFillStar/>,<AiFillStar/>,<AiFillStar/>,<AiFillStar/>]
         },
         // {

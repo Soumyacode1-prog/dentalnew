@@ -20,28 +20,28 @@ import location from '../../assets/footer/location.png';
 
 const Footer = () => {
 
-    const footerMenu = [
-        {
-            'name' : 'About Us',
-            'link' : '/about'
-        },
-        {
-            'name' : 'Services',
-            'link' : '/singleservice'
-        },
-        // {
-        //     'name' : 'Dentist',
-        //     'link' : '/'
-        // },
-        {
-            'name' : 'Experts',
-            'link' : '/blogs'
-        },
-        {
-            'name' : 'Contact Us',
-            'link' : '/contact'
-        }
-    ];
+    // const footerMenu = [
+    //     {
+    //         'name' : 'About Us',
+    //         'link' : '/about'
+    //     },
+    //     {
+    //         'name' : 'Services',
+    //         'link' : '/singleservice'
+    //     },
+    //     // {
+    //     //     'name' : 'Dentist',
+    //     //     'link' : '/'
+    //     // },
+    //     {
+    //         'name' : 'Experts',
+    //         'link' : '/blogs'
+    //     },
+    //     {
+    //         'name' : 'Contact Us',
+    //         'link' : '/contact'
+    //     }
+    // ];
 
     const footerContacts = [
         {

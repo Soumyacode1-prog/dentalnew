@@ -2,7 +2,7 @@ import React from 'react';
 import './Navbar.scss';
 import logo from './../../assets/log.jpeg';
 import {Link} from 'react-router-dom';
-import log from './../../assets/1.PNG';
+// import log from './../../assets/1.PNG';
 // import  backgroundImg from './../../assets/12475.jpg';
 
 const Navbar = () => {

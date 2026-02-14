@@ -1,10 +1,10 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
+// import { Link } from 'react-router-dom';
 import './AboutBanner.scss';
 import bannerOne from '../../assets/about/banner/banner3.png'
-import bannerTwo from '../../assets/about/banner/banner_1.png'
+// import bannerTwo from '../../assets/about/banner/banner_1.png'
 // import pattern from '../../assets/banner/pattern.png'
-import pattern from '../../assets/banner/l.jpg'
+// import pattern from '../../assets/banner/l.jpg'
 
 const AboutBanner = () => {
     return (
